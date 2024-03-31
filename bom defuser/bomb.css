@@ -1,0 +1,26 @@
+.bg{
+    background-color:rgb(196, 231, 220);
+    height:100vh;
+    text-align: center;
+    margin:40px;
+}
+.in{
+    margin:10px;
+    height:30px;
+    width:80vh;
+    border-radius: 10px;
+    padding:5px;
+    border: 1px solid;
+    background-color: rgb(229, 244, 239);
+    border-color:rgb(73, 191, 152);
+}
+.img{
+    margin-top:30px;
+    height:35vh;
+    width:35vh;
+}
+.p{
+    margin-top:40px;
+    font-size:5cap;
+    font-weight: bold;
+}
